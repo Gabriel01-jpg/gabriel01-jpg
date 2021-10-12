@@ -19,4 +19,4 @@ Hi there, i'm Gabriel Lima.
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-  ![Snake animation](https://github.com/Gabriel01-jpg/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Gabriel01-jpg/gabriel01-jpg/blob/output/github-contribution-grid-snake.svg)
