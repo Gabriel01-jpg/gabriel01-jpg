@@ -1,6 +1,6 @@
 Hi there, i'm Gabriel Lima. 
 
-- 🚲 Currently learning Node.js and React.js;
+- 🚲 Node.js and React.js;
 - 💪 Looking to be a full-stack web developer.
 
 
