@@ -1,7 +1,7 @@
 Hi there, i'm Gabriel Lima. 
 
 - 🚲 Node.js and React.js;
-- 💪 Looking to be a full-stack web developer.
+- 💪 Full-stack web developer.
 
 
 <div style="display: inline_block"><br>
