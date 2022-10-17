@@ -1,8 +1,9 @@
 Hi there, i'm Gabriel Lima. 
+Graduated in system analysis and development!
 
 - 🚲 Node.js and React.js;
 - 💪 Full-stack web developer.
-
+- 🏋️‍♂️ Currently learning Go.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
