@@ -15,5 +15,3 @@ Graduated in system analysis and development!
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   
 </div>
-
-  ![Snake animation](https://github.com/Gabriel01-jpg/gabriel01-jpg/blob/output/github-contribution-grid-snake.svg)
